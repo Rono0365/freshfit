@@ -1,10 +1,9 @@
-# swick
+# Freshfit
 
-A new Flutter project.
+A social grocery app 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+get it on google playstore
+https://play.google.com/store/apps/details?id=com.Freshfit.groceries
 
 A few resources to get you started if this is your first Flutter project:
 
