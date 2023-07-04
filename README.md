@@ -10,6 +10,6 @@ FreshFit works with local farmers and suppliers to ensure that all products are 
 
 The checkout process is easy and secure, and customers can choose to have their groceries delivered directly to their doorstep or pick them up at a nearby location. FreshFit also offers flexible delivery options, including same-day and next-day delivery, as well as scheduled deliveries for added convenience. 
 
-get it on google playstore
-https://play.google.com/store/apps/details?id=com.Freshfit.groceries
+get freshfit on the tag section
+
 
